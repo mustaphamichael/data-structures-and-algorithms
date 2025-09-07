@@ -1,3 +1,4 @@
+package golang
 // https://leetcode.com/problems/maximum-product-subarray/
 /**
 The solution entails computing the product in both directions.
